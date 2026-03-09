@@ -29,19 +29,19 @@ Para replicar este projeto, consulte o nosso guia completo com o passo a passo:
 Abaixo estão os registros visuais de cada etapa do desenvolvimento hospedados na pasta `screenshots` do repositório:
 
 1. **Criação do Recurso AI Foundry:**
-   ![Recurso AI Foundry Criado](screenshots/recurso_do_ai_foundry_criado.png) _Visão geral do Hub criado no Azure._
+   ![Recurso AI Foundry Criado](/screenshots/recurso%20do%20ai%20foundry%20criado.png) _Visão geral do Hub criado no Azure._
 
 2. **Implantação do Modelo:**
-   ![Implantando GPT-4o](screenshots/implantgando_o_gpt-4o_no_chat.png) _Configuração e implantação do modelo GPT-4o no projeto._
+   ![Implantando GPT-4o](screenshots/implantgando%20o%20gpt-4o%20no%20chat.png) _Configuração e implantação do modelo GPT-4o no projeto._
 
 3. **Configuração dos Dados (Storage e Search):**
-   ![Configuração de Blob e Search](screenshots/criado_blob_e_recurso_de_pesquisa_para_indexar_arquivos.png) _Conectando as fontes de dados do Azure._
+   ![Configuração de Blob e Search](screenshots/criado%20blob%20e%20recurso%20de%20pesquisa%20para%20indexar%20arquivos.png) _Conectando as fontes de dados do Azure._
 
 4. **Processo de Vetorização:**
-   ![Vetorizando os PDFs](screenshots/vetorizando_os_pdfs.png) _Revisão e conclusão da adição dos arquivos carregados._
+   ![Vetorizando os PDFs](screenshots/vetorizando%20os%20pdfs.png) _Revisão e conclusão da adição dos arquivos carregados._
 
 5. **Índice Vetorial Finalizado:**
-   ![Índice Vetor Criado](screenshots/indice_vetor_criado.png) _Playground de chat reconhecendo a base de dados indexada._
+   ![Índice Vetor Criado](screenshots/indice%20vetor%20criado.png) _Playground de chat reconhecendo a base de dados indexada._
 
 6. **Interação com Sucesso no Playground:**
-   ![Resposta Satisfatória](screenshots/resposta_satisfatório_do_agente_em_uma_pergunda_específica.png) _Agente respondendo corretamente a uma pergunta específica com base nos atores analisados na base de conhecimento._
+   ![Resposta Satisfatória](screenshots/resposta%20satisfatório%20do%20agente%20em%20uma%20pergunda%20específica.png) _Agente respondendo corretamente a uma pergunta específica com base nos atores analisados na base de conhecimento._
